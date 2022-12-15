@@ -1,3 +1,3 @@
-# https://helm.doppler.com/
+# helm.doppler.com
 
 ## subdomain takerover by ahmad
